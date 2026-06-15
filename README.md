@@ -2,6 +2,9 @@
 
 Трейнер (+10 читів лише для гравця) та GUI-редактор XML для Windows.
 
+<img width="1003" height="849" alt="image" src="https://github.com/user-attachments/assets/45c358fa-74af-4aee-91f9-fe9517edc98a" />
+
+
 [![Release](https://img.shields.io/github/v/release/alex0927-cmd/Trainer-and-Save-Editor-for-Game-Star-Wars-Empire-at-War---Forces-of-Corruption)](https://github.com/alex0927-cmd/Trainer-and-Save-Editor-for-Game-Star-Wars-Empire-at-War---Forces-of-Corruption/releases)
 
 ## Завантаження (готові exe)
